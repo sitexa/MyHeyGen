@@ -1,4 +1,5 @@
 /weights
 *.pyc
 *.ipynb_checkpoints*
-
+.idea/
+/video-retalking/checkpoints/
